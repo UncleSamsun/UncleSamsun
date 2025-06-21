@@ -6,7 +6,7 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,nodejs,docker,mysql,redis,git,github,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,redis,aws)](https://skillicons.dev)
 
 ---
 
