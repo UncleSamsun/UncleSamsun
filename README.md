@@ -104,6 +104,16 @@
 
 ---
 
+## 🧩 Algorithm
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjoun5620)](https://solved.ac/minjoun5620/)
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=UncleSamsun&label=Profile+Views&color=blueviolet&style=flat-square)
