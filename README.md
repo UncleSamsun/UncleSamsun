@@ -9,7 +9,7 @@
 
 [![Gmail](https://img.shields.io/badge/alswns5620@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:alswns5620@naver.com)
 [![GitHub](https://img.shields.io/badge/UncleSamsun-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UncleSamsun)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://marble-pigeon-800.notion.site/)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/216e5f2df6c680f2a889f5cd731928dd?source=copy_link)
 
 </div>
 
@@ -98,18 +98,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UncleSamsun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UncleSamsun&layout=compact&theme=tokyonight&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=UncleSamsun&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=UncleSamsun&show_icons=true&theme=tokyonight)  
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💬 _"하드웨어에서 익힌 안전 중심의 사고를, 소프트웨어의 유연함과 함께"_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=UncleSamsun&label=Profile+Views&color=blueviolet&style=flat-square)
 
