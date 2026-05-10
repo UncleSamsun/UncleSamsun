@@ -49,7 +49,7 @@
 
 ## 📁 Featured Projects
 
-### 🥣 [최후의 만찬 — 실시간 웨이팅 서비스](https://github.com/UncleSamsun)
+### 🥣 [최후의 만찬 — 실시간 웨이팅 서비스](https://github.com/UncleSamsun/The-Last-Supper)
 > Redis Atomic 연산 + Spring 비동기 처리로 **응답 처리 시간 97% 단축**
 
 - JMeter 부하 테스트 중 **웨이팅 번호 중복 동시성 이슈** 발견 및 해결
@@ -58,7 +58,7 @@
 - Prometheus + Grafana 기반 성능 모니터링 환경 구성
 - **Tech**: `Java` `Spring Boot` `Spring Batch` `Redis` `MySQL` `JMeter` `Prometheus` `Grafana`
 
-### 🛒 [Json-store — 이커머스 플랫폼](https://github.com/UncleSamsun)
+### 🛒 [Json-store — 이커머스 플랫폼](https://github.com/UncleSamsun/json-store-be)
 > Redis 캐싱과 FCM 실시간 알림으로 응답 속도 및 사용자 경험 개선
 
 - 장바구니 CRUD에 **Redis 캐시 레이어** 도입하여 응답 속도 개선
@@ -66,14 +66,14 @@
 - **JUnit · Mockito 기반 테스트 코드 100% 커버리지**
 - **Tech**: `Java` `Spring Boot` `MySQL` `Redis` `Firebase` `JUnit` `Mockito`
 
-### 📚 [ReadNShare — 독서 기록 공유 커뮤니티](https://github.com/UncleSamsun)
+### 📚 [ReadNShare — 독서 기록 공유 커뮤니티](https://github.com/UncleSamsun/read-and-share)
 > 핵심 사용자 기능에 대한 **테스트 커버리지 100%** 달성
 
 - 이메일 인증 / 사용자 검색 / 회원 탈퇴 기능 구현
 - 성능 테스트 기반 병목 분석 및 개선
 - **Tech**: `Java` `Spring Boot` `MySQL` `Redis` `JUnit` `Mockito` `Swagger`
 
-### ☕ 카페감수광 — 카페 리뷰 기반 맞춤 추천 서비스
+### ☕ [카페감수광 — 카페 리뷰 기반 맞춤 추천 서비스](https://github.com/pok-ssak)
 > **FastAPI + Spring Boot 이중 서버 구조**, 카카오 연계 프로젝트
 
 - 카카오맵 API 응답량 제한을 **제주도 행정구역 좌표 격자화**로 우회
