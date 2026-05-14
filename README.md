@@ -8,7 +8,7 @@
 > _**견고하고 신뢰할 수 있는 백엔드 시스템**을 만드는 개발자가 되고 싶습니다._
 
 [![Gmail](https://img.shields.io/badge/alswns5620@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:alswns5620@naver.com)
-[![GitHub](https://img.shields.io/badge/UncleSamsun-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UncleSamsun)
+[![Portfolio Site](https://img.shields.io/badge/minjoon.me-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)](https://minjoon.me)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/216e5f2df6c680f2a889f5cd731928dd?source=copy_link)
 
 </div>
