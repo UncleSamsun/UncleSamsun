@@ -1,120 +1,106 @@
 <div align="center">
 
-# 안녕하세요, 백엔드 개발자 김민준입니다
+# 김민준 | Backend Developer
 
-### 🛠 5년차 하드웨어 엔지니어 → 백엔드 개발자
+### AI, data, and performance flows connected through Spring backend systems
 
-> _꼼꼼하게 문제를 짚어가는 습관과 시스템 전체를 바라보는 시야로,_  
-> _**견고하고 신뢰할 수 있는 백엔드 시스템**을 만드는 개발자가 되고 싶습니다._
+Java/Spring Boot 기반으로 API 계약, 비동기 처리, 데이터 흐름, 성능 검증까지 연결하는 백엔드 개발자입니다.
 
-[![Gmail](https://img.shields.io/badge/alswns5620@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:alswns5620@naver.com)
-[![Portfolio Site](https://img.shields.io/badge/minjoon.me-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)](https://minjoon.me)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/216e5f2df6c680f2a889f5cd731928dd?source=copy_link)
+철도 신호장치 SIL4 인증 프로젝트에서 익힌 검증 습관을 바탕으로, 서비스 코드에서도 실패 가능성·운영 흐름·근거 있는 개선을 먼저 봅니다.
 
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🚆 **철도 차량용 전장 시스템**을 개발하던 하드웨어 엔지니어 출신
-- 🛡 국내 최초 **SIL4 인증 ATC 차상신호장치** 프로젝트 참여 (부산 지하철 1호선 납품)
-- 📱 사내 공모전에서 직접 개발한 **창고 자재관리 앱**이 현장에서 사용되는 모습을 보고 SW 개발에 매료
-- ⚙️ 그 경험에서 얻은 **유지보수 가능한 시스템의 중요성**을 토대로 본격적인 백엔드 학습 시작
-- 🚀 현재는 **성능 최적화 · 안정성 · 테스트 자동화**에 강한 백엔드 개발자로 성장 중
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,fastapi,python)](https://skillicons.dev)
-
-### Database & Cache
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,firebase)](https://skillicons.dev)
-
-### DevOps & Monitoring
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,prometheus,grafana,linux)](https://skillicons.dev)
-
-### Test & Tools
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-### Collaboration
-[![My Skills](https://skillicons.dev/icons?i=git,github,notion,idea,vscode)](https://skillicons.dev)
-
----
-
-## 📁 Featured Projects
-
-### 🥣 [최후의 만찬 — 실시간 웨이팅 서비스](https://github.com/UncleSamsun/The-Last-Supper)
-> Redis Atomic 연산 + Spring 비동기 처리로 **응답 처리 시간 97% 단축**
-
-- JMeter 부하 테스트 중 **웨이팅 번호 중복 동시성 이슈** 발견 및 해결
-- DB Lock / 분산락 검토 후, 기존 인프라를 활용한 **Redis SETNX 기반 원자적 처리**로 결정
-- Spring Batch로 자정 데이터 배치 처리 자동화
-- Prometheus + Grafana 기반 성능 모니터링 환경 구성
-- **Tech**: `Java` `Spring Boot` `Spring Batch` `Redis` `MySQL` `JMeter` `Prometheus` `Grafana`
-
-### 🛒 [Json-store — 이커머스 플랫폼](https://github.com/UncleSamsun/json-store-be)
-> Redis 캐싱과 FCM 실시간 알림으로 응답 속도 및 사용자 경험 개선
-
-- 장바구니 CRUD에 **Redis 캐시 레이어** 도입하여 응답 속도 개선
-- Firebase Cloud Messaging 연동으로 웹 실시간 알림 구현
-- **JUnit · Mockito 기반 테스트 코드 100% 커버리지**
-- **Tech**: `Java` `Spring Boot` `MySQL` `Redis` `Firebase` `JUnit` `Mockito`
-
-### 📚 [ReadNShare — 독서 기록 공유 커뮤니티](https://github.com/UncleSamsun/read-and-share)
-> 핵심 사용자 기능에 대한 **테스트 커버리지 100%** 달성
-
-- 이메일 인증 / 사용자 검색 / 회원 탈퇴 기능 구현
-- 성능 테스트 기반 병목 분석 및 개선
-- **Tech**: `Java` `Spring Boot` `MySQL` `Redis` `JUnit` `Mockito` `Swagger`
-
-### ☕ [카페감수광 — 카페 리뷰 기반 맞춤 추천 서비스](https://github.com/pok-ssak)
-> **FastAPI + Spring Boot 이중 서버 구조**, 카카오 연계 프로젝트
-
-- 카카오맵 API 응답량 제한을 **제주도 행정구역 좌표 격자화**로 우회
-- KiwiPipy + KR-SBERT + TF-IDF 조합의 한국어 키워드 파이프라인 직접 설계
-- 비동기 크롤링 + Redis 상태 저장으로 **실시간 진행률 조회** 구현
-- **Tech**: `Python` `FastAPI` `Spring Boot` `MySQL` `Redis` `KR-SBERT` `Selenium`
-
----
-
-## 🏆 Career Highlights
-
-| 영역 | 내용 |
-| :--- | :--- |
-| 🛡 **SIL4 인증** | 국내 최초 SIL4 인증 ATC 차상신호장치 — 인증 문서(QMP/CMP/SQAP/SRS) 일체 작성 |
-| 🚇 **상용 납품** | 부산 지하철 1호선 신호장치 시스템 일부 HW/SW 설계 참여, 약 100억 원 매출 기여 |
-| 🧪 **테스트 전문성** | Vector CAST · Code Inspector 기반 단위/통합/HW 연동 테스트 수행 |
-| 📱 **사내 공모전 수상** | Xamarin 기반 창고 자재관리 앱 단독 개발 — 약 3,000개 자재, 현장 2년간 실사용 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=UncleSamsun&show_icons=true&theme=tokyonight)  
+[![Email](https://img.shields.io/badge/Email-alswns5620%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:alswns5620@naver.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-minjoon.me-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://minjoon.me)
+[![GitHub](https://img.shields.io/badge/GitHub-UncleSamsun-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UncleSamsun)
 
 </div>
 
 ---
 
-## 🧩 Algorithm
+## Positioning
+
+> AI 기능, 데이터 파이프라인, 추천/검색/성능 병목을 백엔드 계약과 운영 흐름으로 연결하는 개발자.
+
+- Spring Boot 백엔드에서 인증, API 계약, DB, Redis, 외부 스토리지, 테스트를 한 흐름으로 설계합니다.
+- Python AI worker, GCS Signed URL, Redis Streams/SSE처럼 런타임이 다른 구성요소의 경계를 명확히 나눕니다.
+- "개선했다"보다 `k6`, `JMeter`, `EXPLAIN ANALYZE`, 테스트 결과처럼 다시 확인 가능한 근거를 남깁니다.
+- AI 도구를 단순 코드 생성이 아니라 기획, 설계 검토, 품질 기준, 문서화 워크플로에 통합해 사용합니다.
+
+## Tech Stack
+
+| Area | Stack |
+|---|---|
+| Backend | `Java 17/25`, `Spring Boot 3/4`, `Spring Security`, `Spring Batch`, `WebSocket/STOMP` |
+| Data | `PostgreSQL`, `pgvector`, `MySQL`, `MyBatis`, `JPA`, `Querydsl`, `Elasticsearch` |
+| Async / Infra | `Redis Streams`, `Redis Pub/Sub`, `SSE`, `Docker`, `GCS Signed URL`, `AWS S3` |
+| AI / Data Pipeline | `Python`, `FastAPI`, `MediaPipe Pose`, `OpenCV`, `KR-SBERT`, `TF-IDF`, `Selenium` |
+| Test / Observability | `JUnit 5`, `Mockito`, `Testcontainers`, `pytest`, `k6`, `JMeter`, `Prometheus`, `Grafana`, `Swagger` |
+
+## Featured Projects
+
+### [Hola Climbing](https://minjoon.me/projects/hola-climbing/) | AI Climbing SNS
+
+2인 팀 프로젝트. 백엔드와 AI 파이프라인을 전담했습니다.
+
+클라이밍 영상을 업로드하면 AI가 동작 기술과 dynamic/static 성향을 분석하고, SNS 피드·암장·기록·월간 리포트로 연결하는 서비스입니다.
+
+- `GCS v4 Signed URL`로 대용량 영상 업로드를 WAS에서 분리
+- `Redis Streams + Pub/Sub + SSE`로 AI 분석 요청, 진행률, callback 저장 흐름 분리
+- `PostgreSQL + pgvector` 기반 추천 피드와 `Redis snapshot cursor` 적용
+- 로컬 성능 검증 기준 추천 피드 HTTP p95 `251.233ms -> 122.642ms`, cursor aggregate p95 `9.794ms`
+- Tech: `Java 25`, `Spring Boot 4`, `MyBatis`, `PostgreSQL`, `pgvector`, `Redis`, `GCS`, `Python`, `FastAPI`, `MediaPipe`
+
+[Live Service](https://hola-climb.app) · [Portfolio Detail](https://minjoon.me/projects/hola-climbing/)
+
+### [카페감수광](https://minjoon.me/projects/cafe-gamsugwang/) | Data Recommendation Pipeline
+
+제주 카페 리뷰와 위치 데이터를 수집·정제해 취향 기반 추천으로 연결한 프로젝트입니다.
+
+데이터 수집, 전처리, 키워드 정제, 추천 API 흐름을 담당했습니다.
+
+- Kakao Map API 응답 제한 대응: 200m 격자 + GeoJSON 육지 필터링으로 검색 좌표 `47,190개` 생성
+- 카페 `3,950개`, 리뷰 `22,144개` 수집
+- 리뷰 원천 키워드 `80,601개 -> 30,336개`로 정제
+- `FastAPI` 데이터 처리 서버와 `Spring Boot` 서비스 서버 분리
+- Tech: `Spring Boot`, `FastAPI`, `Redis`, `Elasticsearch`, `Selenium`, `KR-SBERT`, `TF-IDF`
+
+[Backend](https://github.com/UncleSamsun/cafe-gamsugwang-be) · [Crawler](https://github.com/UncleSamsun/cafe-gamsugwang-crawling) · [Embedding](https://github.com/UncleSamsun/cafe-gamsugwang-embedding)
+
+### [The Last Supper](https://minjoon.me/projects/the-last-supper/) | Waiting & Reservation
+
+식당 예약과 현장 웨이팅을 함께 관리하는 서비스입니다.
+
+웨이팅 파트와 JMeter 부하 검증을 중심으로 Redis 기반 동시성 제어와 운영 지표를 다뤘습니다.
+
+- 500명/1초 웨이팅 등록 spike를 JMeter로 재현
+- `Redis atomic + queue + async` 처리로 max response `233ms -> 7ms`
+- Redis 적용 후 시나리오별 평균 응답 시간 `40.9%~47.8%` 감소
+- `Spring Batch`로 운영 종료 후 웨이팅 이력 처리 흐름 분리
+- Tech: `Spring Boot`, `JPA`, `Redis`, `MySQL`, `Spring Batch`, `JMeter`, `Prometheus`, `Grafana`
+
+[Backend](https://github.com/UncleSamsun/The-Last-Supper) · [Frontend](https://github.com/UncleSamsun/The-Last-Supper-Front)
+
+## More Work
+
+| Project | Focus | Link |
+|---|---|---|
+| ReadAndShare | 이메일 인증, BCrypt, 사용자 검색/탈퇴, member 도메인 테스트 보강 | [GitHub](https://github.com/UncleSamsun/read-and-share) |
+| JsonStore | 고객/관리자 JWT 경계, Redis cart, FCM 알림, 주문·재고 테스트 | [Backend](https://github.com/UncleSamsun/json-store-be) / [Frontend](https://github.com/UncleSamsun/json-store-fe) |
+| DevKnowledge | Obsidian vault, Graphify, global AI rules, project watcher 기반 AI memory system | Private |
+
+## Background
+
+- SSAFY Java Web Track, 자율 프로젝트 Hola Climbing 발표 완료 후 개인 고도화 중
+- Kakao x goorm 구름톤 딥다이브 백엔드 과정 수료
+- 철도 신호장치 개발 경력: SIL4 인증 문서, VectorCAST/Code Inspector 기반 테스트, HW 연동 검증
+- 사내 공모전: Xamarin 기반 창고 자재관리 앱 단독 개발, 현장 실사용 경험
+
+## GitHub Stats
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=UncleSamsun&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjoun5620)](https://solved.ac/minjoun5620/)
-
-</div>
-
----
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=UncleSamsun&label=Profile+Views&color=blueviolet&style=flat-square)
 
