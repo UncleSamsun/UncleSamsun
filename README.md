@@ -7,16 +7,13 @@
 <a href="https://github.com/UncleSamsun"><img src="https://img.shields.io/badge/GitHub-UncleSamsun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br />
-<br />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Backend+Developer;AI+%C2%B7+Data+%C2%B7+Performance+Flows;Spring+Backend+%2B+Async+Pipelines" alt="Typing SVG" />
 </a>
-
-<p>
-  AI 기능, 데이터 파이프라인, 추천/검색/성능 병목을<br />
-  <strong>백엔드 계약과 운영 흐름으로 연결하는 개발자</strong>
-</p>
+<br />
+<strong>AI 기능, 데이터 파이프라인, 추천/검색/성능 병목을<br />
+백엔드 계약과 운영 흐름으로 연결하는 개발자</strong>
 
 </div>
 
@@ -31,9 +28,9 @@
 | Performance evidence | k6, JMeter, EXPLAIN ANALYZE, p95, 재측정 가능한 결과 |
 | Reliable delivery | 테스트, 문서화, 에러/응답 표준화, 운영 경계 분리 |
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Core Backend
+<h3 align="center">Core Backend</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +38,7 @@
   </a>
 </p>
 
-### Data, Cache, Search
+<h3 align="center">Data, Cache, Search</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,7 +46,7 @@
   </a>
 </p>
 
-### AI, Infra, Tooling
+<h3 align="center">AI, Infra, Tooling</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
